@@ -568,6 +568,15 @@ article h2 {
     align-items: center;
     justify-content: center;
   }
+   .education-card,
+  .resume-container,
+  .experience-card,
+  .skills-list,
+  .languages-list {
+    
+    
+    padding: 1.5em;
+  }
 
 
 }
