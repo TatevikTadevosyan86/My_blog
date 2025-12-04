@@ -130,7 +130,7 @@ aside {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   text-align: center;
   grid-area: aside;
-  background-image: url('card.png');
+  background-image: url('card.webp');
   background-size: cover;
 }
 
